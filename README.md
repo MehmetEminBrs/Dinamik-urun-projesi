@@ -13,7 +13,7 @@ Bu proje, ürün fiyatlarını anlık altın değerine göre hesaplayan ve kulla
 - **Framework:** Next.js  
 - **Dil:** TypeScript  
 - **CSS:** Tailwind CSS  
-- **Harici API:** MetalPriceAPI
+- **Harici API:** [MetalPriceAPI](https://metalpriceapi.com/)
 - 
 ## Kurulum
 
