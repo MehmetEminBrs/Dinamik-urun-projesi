@@ -15,7 +15,7 @@ Bu proje, ürün fiyatlarını anlık altın değerine göre hesaplayan ve kulla
 - **CSS:** Tailwind CSS  
 - **Harici API:** MetalPriceAPI
 - 
-## 🛠️ Kurulum
+## Kurulum
 
 ```bash
 cd my-app
